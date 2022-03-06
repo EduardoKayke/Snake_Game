@@ -17,7 +17,8 @@ function Snake(Project) {
 
 <div align="center">
 
-<img src="Projeto/assets/img/readme.png" alt="Snake" width="600"/>
+<img src="Projeto/assets/img/readme.png" alt="Snake" width="400"/>
+<img src="Projeto/assets/img/readme1.png" alt="Snake" width="400"/>
 
 </div>
 
